@@ -94,3 +94,9 @@ After installing `react` and `react-dom` you no longer need to pull these files 
 ### Npm Intellisense
 
 - https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense
+
+### More tools needed when using JSX
+
+```
+npm install -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
+```
