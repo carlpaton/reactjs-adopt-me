@@ -100,3 +100,11 @@ After installing `react` and `react-dom` you no longer need to pull these files 
 ```
 npm install -D babel-eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
+
+### Hooks
+
+Some rules to help validate your hooks.
+
+```
+npm i -D eslint-plugin-react-hooks
+```
