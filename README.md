@@ -14,3 +14,17 @@ Complete Intro to React v5 building the adopt-me App. - by Brian Holt
 ## Tools
 
 - https://github.com/carlpaton/reactjs-adopt-me/tree/master/docs/tools
+
+## Hooks
+
+### useState
+
+- https://github.com/carlpaton/reactjs-adopt-me/tree/master/docs/use-state
+
+### Custom Hook
+
+- https://github.com/carlpaton/reactjs-adopt-me/tree/master/docs/custom-hook
+
+### useEffect
+
+- https://github.com/carlpaton/reactjs-adopt-me/tree/master/docs/use-effect
